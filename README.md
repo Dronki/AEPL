@@ -4,4 +4,4 @@ A small side-project for a interpreter that will understand basic english, and i
 
 License
 ===
-GPL v2.
+See [LICENSE-file](LICENSE)
